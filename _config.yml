@@ -1,7 +1,7 @@
 name: 39digits
 favicon: null
-layout_spectrum: 0.36895
-typography_spectrum: 0.40772
+layout_spectrum: 1
+typography_spectrum: 0.5079
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5418500427622348
+  brandStrength: 0.5625
   lightness: 0.27156350389122963
   saturation: 0.37919455161318183
   rhythmicContrast: 0.8484552600421011
