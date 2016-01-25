@@ -4,11 +4,18 @@
         <description><![CDATA[39digits]]></description>
         <link>https://thegrid.ai/39digits/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 21:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 21:31:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/39digits/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[React and Flux: A Docker Development Workflow]]></title>
+            <description><![CDATA[<article><h1>React and Flux: A Docker Development Workflow</h1><p>Docker development environments are quickly becoming the de facto standard for productive programming. Perhaps Vagrant ignited the inspiration with it's remarkable ability to share server environments across development workspaces. However, Docker's simplistic Dockerfiles and fast build times including inheritable build images appear to be giving it a dominant position in the development ecosystem.</p><img src="https://cdn-images-1.medium.com/max/800/1*FT3k5q6fcIBjnrbwRk_TzA.png"></article>]]></description>
+            <link>https://thegrid.ai/39digits/react-and-flux-a-docker-development-workflow/index.html</link>
+            <guid isPermaLink="false">acedc450-f17e-4515-8f3d-ae299e0de053</guid>
+            <pubDate>Mon, 25 Jan 2016 21:30:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Parse | Products & Platforms]]></title>
-            <description><![CDATA[<article><h1>Parse | Products & Platforms</h1><p>Focus on creating great user experiences and stop worrying about server maintenance and complex infrastructure. You've got the ideas, and we've got what you need to help make them a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa11677e0a1749345e5e1347ecca03a7e28435f5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Parse | Products & Platforms</h1><p>Focus on creating great user experiences and stop worrying about server maintenance and complex infrastructure. You've got the ideas, and we've got what you need to help make them a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/934bbc0cea970975e66e7c43b083827c39e7cc48.jpg"></article>]]></description>
             <link>https://parse.com/products</link>
             <guid isPermaLink="false">d0f03696-94b0-4ef7-8b2c-ac97b028bf8a</guid>
             <pubDate>Mon, 25 Jan 2016 21:25:45 GMT</pubDate>
